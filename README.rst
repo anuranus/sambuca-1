@@ -2,7 +2,10 @@
 Sambuca
 =======
 
-* Free software: ??? license
+* Free software: CSIRO Open Source Software Licence Agreement
+* Homepage: https://github.com/csiro-aquatic-remote-sensing/sambuca
+* Documentation: https://sambuca.readthedocs.io/en/latest/
+* Version: 0.4.0
 
 Installation
 ------------
